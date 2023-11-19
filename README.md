@@ -1,8 +1,28 @@
-# React + Vite
+# WhatsApp Clone - Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+A WhatsApp Web Clone built using React and Firebase.
 
-Currently, two official plugins are available:
+[![ss.png](https://i.postimg.cc/g0rYCdcb/ss.png)](https://postimg.cc/TyMMbzWt)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+- download the repo and then open the folder in VScode.
+- in the terminal, run ```npm install```
+- to run the development server, run ```npm run dev```
+
+## Packages used
+- react : 18.2.0
+- react-router-dom : 6.19.0
+- firebase : 10.6.0
+- lottie-react : 2.4.0
+- moment : 2.29.4
+- react-redux : 8.1.3
+- redux-toolkit : 1.9.7
+- sass : 1.69.5
+ 
+## Functionality
+- Create accounts or Sign in with Email Password as well as Google Accounts
+- Able to change avatar and also delete them
+- Chat with other users and also able to send media files
+- Clear chat and logout functionality
+- Online status, last message and time are also there
