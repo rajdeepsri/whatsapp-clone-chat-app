@@ -26,3 +26,6 @@ A WhatsApp Web Clone built using React and Firebase.
 - Chat with other users and also able to send media files
 - Clear chat and logout functionality
 - Online status, last message and time are also there
+
+## Live Demo
+- https://whatsapp-clone-chat-app.netlify.app/
